@@ -1,0 +1,6 @@
+flask
+opencv-python
+numpy
+keras
+paddleocr==2.7.0.3
+paddlepaddle==3.0.0b1
